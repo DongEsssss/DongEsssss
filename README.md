@@ -2,6 +2,12 @@
 
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=dracula)
 
+## Personal Info
+- Lim Dong Gyun
+- Baek Seok University (BU)
+- Computer Science and Engineering
+- abrerop@naver.com
+
 ## Technology Stacks
 ### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -18,7 +24,10 @@
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=react-hook-form&logoColor=white"/></span>
 
-</span>
+### Database
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></span>
 
 
 ### Version Control
@@ -29,3 +38,5 @@
 <span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></span>
 
                       
+## Tistory For Learning - <a href="https://developer-donge.tistory.com/">Here</a>
+[![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbCOiMo%2FbtsIXHRISKz%2FIIMkAsxGkks8Yj0u9msEl1%2Fimg.png)](https://it-eldorado.tistory.com)
