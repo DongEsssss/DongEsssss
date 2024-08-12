@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&text=Welcome%20to-nl-DongEsssss%20Github&fontSize=55&color=0:1555fc,400:1a1e1f&stroke=ffffff&animation=fadeIn)
 
+![DongEsssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=dracula)
-![DongEsssss![DongEsssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical)
 
 ## Personal Info
 - Lim Dong Gyun
