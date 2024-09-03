@@ -2,7 +2,8 @@
 
 ### GIT STAT
 ![DongEsssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical)
-<div style={{margin:'20px 0px'}}>
+<div style={{margin:'0px 20px'}}></div>
+
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=dracula)
 
 ## Personal Info
