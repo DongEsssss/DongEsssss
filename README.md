@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Welcome%20to-nl-DongEsssss%20Github&fontSize=80&color=0:1555fc,300:1a1e1f&stroke=ffffff&animation=fadeIn)
 
-### GIT STAT
+### GIT STAT
 ![DongEsssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical)
-<div style={{margin:'0px 20px'}}></div>
 
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=dracula)
 
