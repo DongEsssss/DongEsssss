@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Welcome%20to-nl-DongEsssss%20Github&fontSize=80&color=0:1555fc,300:1a1e1f&stroke=ffffff&animation=fadeIn)
-
 ### GIT STAT
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical" alt="DongEsssss's GitHub stats" />
-  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center">
+  <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; width: 100%; max-width: 800px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical" alt="DongEsssss's GitHub stats" style="width: 48%; height: 200px; object-fit: cover; min-width: 300px;">
+    <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 200px; object-fit: cover; min-width: 300px;">
+  </div>
+</div>
+
 
 
 ## Personal Info
@@ -41,6 +44,6 @@
 ### Control Tool
 <span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></span>
 
-                      
-## Tistory For Learning - <a href="https://developer-donge.tistory.com/">Here</a>
-[![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbCOiMo%2FbtsIXHRISKz%2FIIMkAsxGkks8Yj0u9msEl1%2Fimg.png)](https://developer-donge.tistory.com)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
