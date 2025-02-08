@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongEsssss&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend Engineer&descAlignY=51&descAlign=62"/>
+</p>
+
 ### GIT STAT
 
 <div align="center">
