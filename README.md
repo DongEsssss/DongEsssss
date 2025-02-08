@@ -58,15 +58,6 @@
     </table>
 </div>
 
-
-<h3>Git Stat</h3>
-<div align="center">
-    <div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%; max-width: 800px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical" alt="DongEsssss's GitHub stats" style="width: 49%; height: 200px; object-fit: cover; min-width: 300px;">
-        <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=radical" alt="Top Languages" style="width: 49%; height: 200px; object-fit: cover; min-width: 300px;">
-    </div>
-</div>
-
 <br>
 
 <div align="center" style="margin-top:20px;">
