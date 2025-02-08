@@ -1,3 +1,7 @@
+<p align='center'>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DongEsssss&fontSize=90&animation=fadeIn&fontAlignY=35&desc=FE%20DEVELOPER&descAlignY=51&descAlign=62" style="width: 100%; max-width: 600px;"/>
+</p>
+
 <h3>Personal Info</h3>
 <ul>
     <li>Lim Dong Gyun</li>
