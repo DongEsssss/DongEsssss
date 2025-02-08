@@ -1,4 +1,4 @@
-<p align='center'>
+cz<p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DongEsssss&fontSize=90&animation=fadeIn&fontAlignY=35&desc=FE%20DEVELOPER&descAlignY=51&descAlign=62"/>
 </p>
 ### GIT STAT
@@ -8,11 +8,13 @@
     <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 200px; object-fit: cover; min-width: 300px;">
   </div>
 </div>
+
 ## Personal Info
 - Lim Dong Gyun
 - Baek Seok University (BU)
 - Computer Science and Engineering
 - abrerop@naver.com
+- 
 ## Technology Stacks
 <div align="center">
 <table align="center">
