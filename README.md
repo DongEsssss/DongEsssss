@@ -62,5 +62,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical" alt="DongEsssss's GitHub stats" style="width: 49%; height: 200px; object-fit: cover; min-width: 300px;">
     <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=radical" alt="Top Languages" style="width: 49%; height: 200px; object-fit: cover; min-width: 300px;">
   </div>
+<br/>
+    <br/>
+![DongEsssss](https://komarev.com/ghpvc/?username=DongEsssss&color=blue)
 </div>
 
