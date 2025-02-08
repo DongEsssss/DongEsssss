@@ -6,7 +6,7 @@
 - Lim Dong Gyun
 - Baek Seok University (BU)
 - Computer Science and Engineering
-- abrerop@naver.com
+- qufqlc164@gmail.com
 
 ### Technology Stacks
 <div align="center">
