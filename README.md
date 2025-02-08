@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongEsssss&fontSize=90&animation=fadeIn&fontAlignY=42&desc=FE%DEVELOPER&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongEsssss&fontSize=90&animation=fadeIn&fontAlignY=35&desc=FE%20DEVELOPER&descAlignY=51&descAlign=62"/>
 </p>
 
 ### GIT STAT
