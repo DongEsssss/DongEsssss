@@ -1,21 +1,22 @@
-cz<p align='center'>
+<p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DongEsssss&fontSize=90&animation=fadeIn&fontAlignY=35&desc=FE%20DEVELOPER&descAlignY=51&descAlign=62"/>
 </p>
+
 ### GIT STAT
 <div align="center">
-  <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; width: 100%; max-width: 800px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical" alt="DongEsssss's GitHub stats" style="width: 48%; height: 200px; object-fit: cover; min-width: 300px;">
-    <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 200px; object-fit: cover; min-width: 300px;">
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%; max-width: 800px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=radical" alt="DongEsssss's GitHub stats" style="width: 49%; height: 200px; object-fit: cover; min-width: 300px;">
+    <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=radical" alt="Top Languages" style="width: 49%; height: 200px; object-fit: cover; min-width: 300px;">
   </div>
 </div>
 
-## Personal Info
+### Personal Info
 - Lim Dong Gyun
 - Baek Seok University (BU)
 - Computer Science and Engineering
 - abrerop@naver.com
-- 
-## Technology Stacks
+
+### Technology Stacks
 <div align="center">
 <table align="center">
   <tr>
