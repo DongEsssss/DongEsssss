@@ -57,9 +57,12 @@
         </tr>
     </table>
 </div>
-
 <br>
-
-<div align="center" style="margin-top:20px;">
+<div align="center">
+   Contact ME |
+   <a href="https://developer-donge.tistory.com/">My blog</a>
+</div>
+<br>
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=DongEsssss&color=green"> 
 </div>
