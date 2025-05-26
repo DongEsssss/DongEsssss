@@ -52,7 +52,7 @@
         <tr>
             <th>Control Tool</th>
             <td>
-                <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+                <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20StudioCode&logoColor=white"/>
             </td>
         </tr>
     </table>
