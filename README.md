@@ -71,24 +71,31 @@
     </table>
 </div>
 
-<h3>GitHub Activity & Stats</h3>
+<h3>Farm Version</h3>
 <div align="center">
-  <!-- GitHub Activity Graph (안정적인 대체 그래프) -->
   <a href="https://github.com/DongEsssss">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DongEsssss&theme=react-dark&hide_border=true" width="100%" alt="DongEsssss's GitHub Activity Graph" />
+    <!-- YOUR_USERNAME 부분을 사용자님의 GitHub 아이디로 바꾸세요. -->
+    <img src="https://github-readme-contribution-farm.vercel.app/api/contrib-farm?username=DongEsssss&timezone=Asia/Seoul&theme=light&logo=node" alt="DongEsssss's Contribution Farm" width="100%" max-width="620px" />
+  </a>
+</div>
+
+<br>
+
+<h3>🐾 Followers</h3>
+<div align="center">
+  <a href="https://github.com/DongEsssss?tab=followers">
+    <img src="https://my-followers.vercel.app/api?username=DongEsssss&rows=2&cols=7&avatar_shape=rounded" alt="DongEsssss's Followers" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- GitHub Streak Stats (커밋 연속 기록) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DongEsssss&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZweG4zd3Zyc3R3eG1qZnA5OWZ3eDRvZnl6eXJ6eXJ6eXJ6eXJ6JmVwPXZxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Coding Cat">
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=DongEsssss&color=green&style=flat-square" alt="Profile Views">
 </div>
