@@ -1,5 +1,5 @@
 <p align='center'>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DongEsssss&fontSize=90&animation=fadeIn&fontAlignY=35&desc=FE%-DEVELOPER&descAlignY=51&descAlign=62" style="width: 100%; max-width: 620px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DongEsssss&fontSize=90&animation=fadeIn&fontAlignY=35&desc=FE-DEVELOPER&descAlignY=51&descAlign=62" style="width: 100%; max-width: 620px;"/>
 </p>
 
 <h3>Personal Info</h3>
@@ -9,6 +9,19 @@
     <li>Computer Science and Engineering</li>
     <li>Email: <a href="mailto:qufqlc164@gmail.com">qufqlc164@gmail.com</a></li>
 </ul>
+
+<h3>Contact & Socials</h3>
+<p>
+  <a href="mailto:qufqlc164@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://developer-donge.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory%20Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DongEsssss" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <h3>Technology Stacks</h3>
 <div align="center">
@@ -57,12 +70,19 @@
         </tr>
     </table>
 </div>
-<br>
+
+<h3>GitHub Stats & Top Languages</h3>
 <div align="center">
-   Contact ME |
-   <a href="https://developer-donge.tistory.com/">My blog</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
+
+<h3>Achievements</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DongEsssss&theme=darkhub&column=6&margin-w=15" alt="GitHub Trophies" />
+</div>
+
 <br>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=DongEsssss&color=green"> 
+  <img src="https://komarev.com/ghpvc/?username=DongEsssss&color=green&style=flat-square" alt="Profile Views">
 </div>
