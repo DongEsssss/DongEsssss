@@ -71,18 +71,24 @@
     </table>
 </div>
 
-<h3>GitHub Stats & Top Languages</h3>
+<h3>GitHub Activity & Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DongEsssss&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongEsssss&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<h3>Achievements</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DongEsssss&theme=darkhub&column=6&margin-w=15" alt="GitHub Trophies" />
+  <!-- GitHub Activity Graph (안정적인 대체 그래프) -->
+  <a href="https://github.com/DongEsssss">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DongEsssss&theme=react-dark&hide_border=true" width="100%" alt="DongEsssss's GitHub Activity Graph" />
+  </a>
 </div>
 
 <br>
+
 <div align="center">
+  <!-- GitHub Streak Stats (커밋 연속 기록) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DongEsssss&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=DongEsssss&color=green&style=flat-square" alt="Profile Views">
 </div>
