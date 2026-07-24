@@ -7,12 +7,12 @@
     <li>Lim Dong Gyun</li>
     <li>Baek Seok University (BU)</li>
     <li>Computer Science and Engineering</li>
-    <li>Email: <a href="mailto:qufqlc164@gmail.com">qufqlc164@gmail.com</a></li>
+    <li>Email: <a href="mailto:dev.dongesssss@gmail.com">dev.dongesssss@gmail.com</a></li>
 </ul>
 
 <h3>Contact & Socials</h3>
 <p>
-  <a href="mailto:qufqlc164@gmail.com">
+  <a href="mailto:dev.dongesssss@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://developer-donge.tistory.com/" target="_blank">
